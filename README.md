@@ -66,3 +66,4 @@ For best results:
 - [ ] Add 3D model visualization
 - [ ] Improve pose normalization
 - [ ] Support for multiple people in one image
+      
