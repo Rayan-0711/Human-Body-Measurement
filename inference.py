@@ -232,4 +232,3 @@ def run_inference(image_path, height):
 
     from inference import main  # Your actual main function
     return main()
-
