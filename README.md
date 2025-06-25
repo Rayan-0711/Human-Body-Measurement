@@ -67,3 +67,10 @@ For best results:
 - [ ] Improve pose normalization
 - [ ] Support for multiple people in one image
       
+## Team 👨‍💻
+This project was developed by a dedicated team of students as part of our final year academic submission. Each member contributed significantly across various aspects such as research, design, development, testing, and documentation. Our collaborative effort ensured the successful implementation of the project's objectives and features. We are proud of the teamwork and learning that went into building this solution.
+## Members
+- Mohammed Rayab Hussain
+- Md Hatif Farooque
+- Mohammed Ameen Khan
+- Mohammed Shoaib
